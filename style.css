@@ -1,0 +1,76 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+*{
+    margin : 0 ;
+    padding : 0 ;
+    box-sizing : border-box ;
+}
+
+.over_all{
+    padding: 10px;
+    border: 5px solid #2b43ff;
+    border-radius: 10px;
+    
+}
+.over_all .reg{
+				background-color:#2b43ff;
+				
+}
+.header{
+				border:5px solid #d5bfff;
+				border-radius: 5px;
+				background-color:#dfd5ff ;
+				
+}
+h1{
+				text-align: center;
+  
+				
+}
+.mains{
+				padding : 5px;
+				margin: 5px;
+				vh: 100%
+				
+}
+
+.mains .main_label{
+    margin: 5px;
+    padding: 3px 15px;
+    font-size: 17px;
+    letter-spacing: 2px;  
+}
+
+
+.mains .main_input{
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.mains .main_select .select,option{
+				padding: 0;
+				length: 50%;
+				
+}
+.select_option{
+				border:1px;
+				margin: 5px;
+				length: 70%;
+}
+.mains .main_input{
+				background-color:##b095ff;		
+				position: relative;
+				left:50px;
+}
+
+#logpro{
+				text-align: center;
+				padding: 5px;
+				border: 1px solid black;
+				border-radius: 5px;
+				
+}
+
+
